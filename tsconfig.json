@@ -18,7 +18,7 @@
     "noUnusedLocals": true,
     "strictNullChecks": true,
     "jsx": "react-jsx",
-    "types": ["node", "vite/client", "vite-plugin-pages/client", "vitest", "recoil"],
+    "types": ["node", "vite/client", "vite-plugin-pages/client", "vitest", "recoil", "zustand"],
     "paths": {
       "*": ["node_modules/*"],
       "~/*": ["src/*"]
